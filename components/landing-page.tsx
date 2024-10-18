@@ -28,7 +28,7 @@ export function LandingPage() {
       <section className="pt-20 pb-16 px-4">
         <div className="max-w-6xl mx-auto text-center">
           <h1 className="text-5xl font-bold mb-6">
-            QvikBits – Save & Summarize Your Daily Reads
+            QvikBits – Save &amp; Summarize Your Daily Reads
           </h1>
           <p className="text-xl text-gray-600 mb-8 max-w-2xl mx-auto">
             Automatically save and receive email summaries of articles you care about – news, tech, and more.
@@ -107,7 +107,7 @@ export function LandingPage() {
             <div className="bg-white p-8 rounded-lg shadow-sm">
               <StarIcon className="w-8 h-8 text-yellow-400 mb-4" />
               <p className="text-lg mb-4 italic">
-                "QvikBits has made it super easy to keep up with news and tech articles. I love the nightly summaries!"
+                &quot;QvikBits has made it super easy to keep up with news and tech articles. I love the nightly summaries!&quot;
               </p>
               <p className="font-semibold">- Sarah Johnson</p>
             </div>
